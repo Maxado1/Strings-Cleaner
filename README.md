@@ -15,3 +15,5 @@ Strings Cleaner is a sophisticated Windows memory manipulation utility designed 
 
 - 🧩 Pattern Batching - Support for comma-separated multiple string patterns
 
+
+<img width="971" height="479" alt="image" src="https://github.com/user-attachments/assets/498bd469-9312-457e-85f6-ddfbcd903375" />
