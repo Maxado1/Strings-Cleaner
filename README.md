@@ -9,9 +9,9 @@ Strings Cleaner is a sophisticated Windows memory manipulation utility designed 
 
 - ⚡ Multi-Threaded Architecture - Parallel scanning across all available CPU cores (up to 8 threads
 
-- PPL Bypass Capability - Temporarily disables PPL protection using vulnerable driver technique
+- 🛡️ PPL Bypass Capability - Temporarily disables PPL protection using vulnerable driver technique
 
 - 🔒 Thread Management - 	Automatic thread suspension/resume during cleaning operations
 
-- Thread Suspension - Suspends process threads during cleaning operations to prevent interference
+- 🧩 Pattern Batching - Support for comma-separated multiple string patterns
 
