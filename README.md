@@ -20,4 +20,5 @@ Strings Cleaner is a sophisticated Windows memory manipulation utility designed 
 
 ## Author -
 MAXADO GOD
+
 Discord Username - .maxadogod.
